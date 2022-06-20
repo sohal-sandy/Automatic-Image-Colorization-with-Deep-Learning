@@ -38,6 +38,7 @@ format short g
 
 [peaksnr mse ssimval]
 
+# DATASET
 
-
+There are 2 datasets used for this project. The first one is taken from Kaggle and the second one is from PASCAL VOC 2007. The Kaggle dataset is called 'Google Scraped Image Dataset'. 
 
